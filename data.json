@@ -1,0 +1,47 @@
+[ {
+    "id": "1",
+    "nombre": "Cartas Yu-Gi-Oh",
+    "precio": "550",
+    "imagen": "./imagenes/accesorios/cartas-yugioh.webp"
+  }, {
+    "id": "2",
+    "nombre": "Pines variados de anime y videojuegos",
+    "precio": "150",
+    "imagen": "./imagenes/accesorios/pines.webp"
+  },
+  {
+    "id": "3",
+    "nombre": "Manga Boku no Hero ",
+    "precio": "750",
+    "imagen": "./imagenes/mangas/boku-no-hero.webp"
+  },
+  {
+    "id": "4",
+    "nombre": "Manga Death Note",
+    "precio": "750",
+    "imagen": "./imagenes/mangas/death-note.webp"
+  },
+  {
+    "id": "5",
+    "nombre": "Manga Naruto Shipudden",
+    "precio": "700",
+    "imagen": "./imagenes/mangas/naruto.webp"
+  },
+  {
+    "id": "6",
+    "nombre": "Manga One piece",
+    "precio": "750",
+    "imagen": "./imagenes/mangas/one-piece.webp"
+  },
+  {
+    "id": "7",
+    "nombre": "Buzo Nezuko negro, talle M a XXL",
+    "precio": "5000",
+    "imagen": "./imagenes/ropa/buzo-nezuko.webp"
+  },
+  {
+    "id": "8",
+    "nombre": "Gorro de pikachu",
+    "precio": "2500",
+    "imagen": "./imagenes/ropa/gorro-pikachu.webp"
+  }]
